@@ -104,3 +104,22 @@ View screenshots of customer segmentation, customer contribution, and customer p
 View screenshots of SQL queries for sales, profit, and customer rankings in the Screenshots folder.
 
 [View All Project Screenshots](Screenshots/)
+## 📂 Project Deliverables
+
+- **Python:** Data cleaning, feature engineering, sales analysis, and customer analysis scripts.
+- **Dataset:** Original and processed retail sales data.
+- **SQL:** Queries for sales, profit, category performance, and customer rankings.
+- **Screenshots:** Evidence of project tasks and analysis results.
+
+## 🚀 Key Learnings
+
+- Data cleaning and preprocessing using Pandas.
+- Feature engineering with Python.
+- Exploratory Data Analysis (EDA).
+- Sales and customer performance analysis.
+- SQL queries for business insights.
+- Data visualization using Matplotlib.
+
+## 👩‍💻 Project Status
+
+Python analysis and SQL analysis completed. Additional reporting and dashboard development can be added as the project progresses.
