@@ -72,7 +72,7 @@ SQL queries are used to explore business metrics, including:
 
 ## 📁 Project Structure
 
-```text
+text
 Retail-Sales-Customer-Performance-Analysis/
 │
 ├── README.md
@@ -83,3 +83,24 @@ Retail-Sales-Customer-Performance-Analysis/
     ├── Sales & Profit Analysis
     ├── Customer Analysis
     └── SQL Analysis
+## 📸 Project Screenshots
+
+### 1. Dataset Preview
+![Dataset Head and Tail](Screenshots/head%20tail.png)
+
+### 2. Data Cleaning
+View screenshots of missing-value checks, duplicate checks, and data cleaning in the Screenshots folder.
+
+### 3. Feature Engineering
+View screenshots of date conversion, profit margin, and new feature creation in the Screenshots folder.
+
+### 4. Sales and Profit Analysis
+View screenshots of monthly sales, category sales, regional sales, and profit analysis in the Screenshots folder.
+
+### 5. Customer Analysis
+View screenshots of customer segmentation, customer contribution, and customer purchasing behavior in the Screenshots folder.
+
+### 6. SQL Analysis
+View screenshots of SQL queries for sales, profit, and customer rankings in the Screenshots folder.
+
+[View All Project Screenshots](Screenshots/)
