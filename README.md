@@ -175,6 +175,16 @@ The data model illustrates the relationships between sales data and supporting t
 
 ![Power BI Data Model](Screenshots/5.Data_Model_Screenshot.png)
 
+
+### Power BI Dashboard File
+
+**File Name:** `Retail_Sales_Customer_Performance_Dashboard.pbix`
+
+This Power BI report contains interactive visualizations and KPI cards for analyzing retail sales, customer purchasing behavior, and product performance.
+
+The report includes sales and profit analysis, customer insights, product performance, and interactive filters to support data-driven business decisions.
+
+
 ### Key Dashboard Features
 
 * **Sales Performance:** Total sales, total profit, and order analysis.
