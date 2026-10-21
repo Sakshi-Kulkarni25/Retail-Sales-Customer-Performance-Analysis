@@ -86,7 +86,7 @@ Retail-Sales-Customer-Performance-Analysis/
 ## 📸 Project Screenshots
 
 ### 1. Dataset Preview
-![Dataset Head and Tail](Screenshots/head%20tail.png)
+![Project Head and Tail](Screenshots/1.Head%2CTail.png)
 
 ### 2. Data Cleaning
 View screenshots of missing-value checks, duplicate checks, and data cleaning in the Screenshots folder.
