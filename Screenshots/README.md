@@ -25,6 +25,17 @@ This folder contains screenshots documenting the development and analysis of the
 * Product and category performance
 * Interactive filters and visualizations
 
+### Power BI Data Model and Relationships
+
+
+The Power BI data model represents the relationships between tables used for sales and customer analysis. These relationships help support interactive filtering and consistent reporting.
+
+**Data Model Screenshot:** `5.Data_Model_Screenshot.png`
+
+**Power BI Dashboard File:** `Retail_Sales_Relation.pbix`
+
+
+
 ## Screenshot Organization
 
 The project screenshots are organized by analysis stage for easy navigation.
@@ -36,10 +47,14 @@ The project screenshots are organized by analysis stage for easy navigation.
 This structure helps readers follow the project workflow from data preparation to business insights and visualization.
 
 
+
+
+
 ## Project Status
 
+The Retail Sales & Customer Performance Analysis project includes Python-based data cleaning and analysis, SQL queries, and an interactive Power BI dashboard.
 
-Python analysis and SQL analysis are documented with screenshots. Power BI dashboard screenshots are included to demonstrate the reporting and visualization stage.
+The project covers sales performance, profitability, customer purchasing behavior, product performance, and business recommendations. Project documentation and presentation materials are also being prepared for final submission.
 
 
 
