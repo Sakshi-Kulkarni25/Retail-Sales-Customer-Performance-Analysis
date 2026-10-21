@@ -25,16 +25,15 @@ This folder contains screenshots documenting the development and analysis of the
 * Product and category performance
 * Interactive filters and visualizations
 
+
 ### Power BI Data Model and Relationships
 
+**Power BI File:** `Retail_Sales_Relation.pbix`
 
-The Power BI data model represents the relationships between tables used for sales and customer analysis. These relationships help support interactive filtering and consistent reporting.
-
-**Data Model Screenshot:** `5.Data_Model_Screenshot.png`
-
-**Power BI Dashboard File:** `Retail_Sales_Relation.pbix`
+The data model shows the tables and relationships used in the Retail Sales & Customer Performance Analysis project.
 
 ![Power BI Data Model](5.Data_Model_Screenshot.png)
+
 
 
 ## Screenshot Organization
