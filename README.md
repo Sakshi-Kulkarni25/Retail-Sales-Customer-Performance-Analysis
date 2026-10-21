@@ -120,6 +120,23 @@ View screenshots of SQL queries for sales, profit, and customer rankings in the 
 - SQL queries for business insights.
 - Data visualization using Matplotlib.
 
+## 📊 Power BI Dashboard
+
+An interactive Power BI dashboard was developed to analyze retail sales performance, profitability, customer purchasing behavior, and product performance.
+
+### Dashboard Preview
+
+![Retail Sales Power BI Dashboard](Screenshots/PowerBI_Dashboard.png)
+
+### Key Features
+
+* **Sales Performance:** Total sales, total profit, and order analysis.
+* **Customer Analysis:** Customer rankings, revenue, order activity, and average spending.
+* **Product Analysis:** Top- and bottom-performing products and category performance.
+* **Interactive Filters:** Year, Month, Region, and Category.
+* **Interactive Visuals:** Cross-filtering, drill-down, and tooltips.
+
+
 ## 👩‍💻 Project Status
 
 Python analysis and SQL analysis completed. Additional reporting and dashboard development can be added as the project progresses.
