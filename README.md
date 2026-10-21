@@ -125,8 +125,7 @@ View screenshots of SQL queries for sales, profit, and customer rankings in the 
 An interactive Power BI dashboard was developed to analyze retail sales performance, profitability, customer purchasing behavior, and product performance.
 
 ### Dashboard Preview
-
-"C:\Retail_Sales_Analysis_Projest1ds\Day_10Project_PowerBI_Data_Model\Power BI Screenshots\3.Retail Sales Analysis Dashboard.png"
+![Retail Sales Analysis Dashboard](Screenshots/3.Retail%20Sales%20Analysis%20Dashboard.png)
 
 ### Key Features
 
