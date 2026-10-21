@@ -163,8 +163,9 @@ This interactive dashboard presents key sales metrics, revenue, profitability, c
 
 This dashboard analyzes customer rankings, customer spending, order activity, product performance, and category-level revenue and profit.
 
-![Customer & Product Performance Dashboard](Screenshots/4.Customer_Product_Performance_Dashboard.png)
-![Power BI Data Model](Screenshots/5.Data_Model_Screenshot.png)
+![Customer & Product Analysis Dashboard](Screenshots/6.Customer%20%26%20Product%20Analysis%20Dashboard.png)
+
+
 
 ### 3. Power BI Data Model & Relationships
 
