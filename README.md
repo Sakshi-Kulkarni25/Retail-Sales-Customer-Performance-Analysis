@@ -128,6 +128,10 @@ An interactive Power BI dashboard was developed to analyze retail sales performa
 ### Dashboard Preview
 ![Retail Sales Analysis Dashboard](Screenshots/3.Retail%20Sales%20Analysis%20Dashboard.png)
 
+### Power BI Data Model and Relationships
+
+![Power BI Data Model](Screenshots/5.Data_Model_Screenshot.png)
+
 ### Key Features
 
 * **Sales Performance:** Total sales, total profit, and order analysis.
