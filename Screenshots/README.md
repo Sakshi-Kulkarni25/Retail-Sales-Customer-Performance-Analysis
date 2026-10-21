@@ -36,6 +36,7 @@ The data model shows the tables and relationships used in the Retail Sales & Cus
 
 
 
+
 ## Screenshot Organization
 
 The project screenshots are organized by analysis stage for easy navigation.
