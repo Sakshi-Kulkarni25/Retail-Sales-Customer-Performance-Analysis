@@ -99,6 +99,14 @@ Key analyses included:
 
 Interactive Power BI reports were developed to present sales, customer, and product performance.
 
+
+### 📊 Power BI Dashboard File
+
+**File Name:** `Retail_Sales_Customer_Performance_Dashboard.pbix`
+
+The Power BI report includes interactive dashboards for retail sales, customer analysis, and product performance. Download the PBIX file from this repository and open it in Power BI Desktop to explore the report.
+
+
 ### 1. Retail Sales Analysis Dashboard
 
 This dashboard presents an overview of retail sales and profitability.
@@ -128,6 +136,12 @@ Key features:
 * Category performance comparisons.
 
 ![Customer & Product Analysis Dashboard](Screenshots/6.Customer%20%26%20Product%20Analysis%20Dashboard.png)
+
+### 📊 Power BI Dashboard File
+
+**File Name:** `Retail_Sales_Customer_Performance_Dashboard.pbix`
+
+The Power BI report includes interactive dashboards for retail sales, customer analysis, and product performance. Download the PBIX file from this repository and open it in Power BI Desktop to explore the report.
 
 ### 3. Power BI Data Model
 
