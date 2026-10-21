@@ -103,7 +103,7 @@ View screenshots of customer segmentation, customer contribution, and customer p
 ### 6. SQL Analysis
 View screenshots of SQL queries for sales, profit, and customer rankings in the Screenshots folder.
 
-![Power BI Data Model](5.Data_Model_Screenshot.png)
+
 
 ## 📂 Project Deliverables
 
