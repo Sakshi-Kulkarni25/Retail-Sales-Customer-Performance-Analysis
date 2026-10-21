@@ -33,6 +33,7 @@ The Power BI data model represents the relationships between tables used for sal
 **Data Model Screenshot:** `5.Data_Model_Screenshot.png`
 
 **Power BI Dashboard File:** `Retail_Sales_Relation.pbix`
+
 ![Power BI Data Model](5.Data_Model_Screenshot.png)
 
 
