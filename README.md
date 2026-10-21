@@ -1,157 +1,211 @@
 # 🛍️ Retail Sales & Customer Performance Analysis
 
 ## 📌 Project Overview
-This is an ongoing Data Analytics project focused on analyzing retail sales, customer behavior, product performance, and profitability.
 
-The project uses Python and SQL for data analysis, with Excel and Power BI planned as part of the overall analytical workflow.
+This Data Analytics project focuses on analyzing retail sales, customer behavior, product performance, and profitability to identify business trends and opportunities for improvement.
+
+The project uses Python, SQL, Excel, and Power BI to transform retail data into meaningful business insights and interactive visualizations.
 
 ## 🎯 Business Objectives
-- Analyze overall sales and profit performance.
-- Identify top-performing products and categories.
-- Understand customer purchasing behavior.
-- Compare sales performance across regions.
-- Identify trends and opportunities to improve profitability.
+
+* Analyze overall sales and profit performance.
+* Identify top-performing and low-performing products.
+* Evaluate category-wise and regional sales performance.
+* Understand customer purchasing behavior and spending patterns.
+* Analyze repeat and one-time customers.
+* Identify trends and opportunities to improve profitability.
+* Develop interactive Power BI dashboards for business reporting.
 
 ## 🛠️ Tools & Technologies
-- Python
-- Pandas and NumPy
-- Matplotlib
-- SQL
-- Excel
-- Power BI (planned)
+
+* **Python:** Data cleaning, preprocessing, and analysis.
+* **Pandas:** Data manipulation and analysis.
+* **NumPy:** Numerical operations.
+* **Matplotlib:** Data visualization.
+* **SQL:** Business data analysis and aggregation.
+* **Excel:** Spreadsheet-based data analysis.
+* **Power BI:** Interactive dashboards, KPIs, and visual reporting.
+* **GitHub:** Project documentation and version control.
 
 ## 📊 Dataset Information
-- **Dataset:** Retail Sales Dataset
-- **Total Records:** 9,994
-- **Original Columns:** 21
-- **Transformed Columns:** 33
+
+* **Dataset:** Retail Sales Dataset
+* **Total Records:** 9,994
+* **Original Columns:** 21
+* **Transformed Columns:** 33
+
+The dataset contains information about orders, customers, products, sales, quantities, discounts, profits, and geographical regions.
 
 ## 🧹 Data Cleaning
-The dataset was examined and prepared for analysis.
+
+The dataset was inspected and prepared for analysis.
 
 Tasks included:
-- Inspecting dataset structure and data types.
-- Checking missing values and duplicate records.
-- Validating sales data and dates.
-- Converting date columns into appropriate formats.
+
+* Examining dataset structure and data types.
+* Checking missing values and duplicate records.
+* Validating sales and profit data.
+* Converting date columns into appropriate formats.
+* Preparing the dataset for further analysis.
 
 ## ⚙️ Feature Engineering
-Additional analytical features were created, including:
-- Year, Month, Month Name, and Quarter
-- Profit Margin
-- Order Value
-- Customer Segment
-- Sales Category
-- Profit Category
-- Customer Type
-- Product Performance
-- Order Size
+
+Additional analytical features were created to support deeper analysis.
+
+Features include:
+
+* Year
+* Month
+* Month Name
+* Quarter
+* Profit Margin
+* Order Value
+* Customer Segment
+* Sales Category
+* Profit Category
+* Customer Type
+* Product Performance
+* Order Size
+
+These features help analyze sales trends, customer behavior, and product profitability.
 
 ## 📈 Sales & Profit Analysis
-The analysis explores:
-- Monthly sales trends
-- Sales by category and region
-- Total sales and total profit
-- Profitability by category
-- Product sales performance
+
+Sales and profitability were analyzed to understand overall business performance.
+
+Key analysis areas:
+
+* Total sales and total profit.
+* Monthly sales trends.
+* Sales by product category.
+* Regional sales performance.
+* Profitability by category.
+* Product sales performance.
+* Monthly and seasonal sales patterns.
+
+### Key Business Findings
+
+* **Total Sales:** 2,297,200.86
+* **Total Profit:** 286,397.02
+* **Total Orders:** 5,009
+* **Total Customers:** 793
+
+Technology generated the highest sales among the three main categories, while Office Supplies and Technology showed stronger profit margins than Furniture.
 
 ## 👥 Customer Analysis
-Customer analysis includes:
-- Top customers by sales
-- Customer segmentation
-- Customer contribution
-- Repeat versus one-time customers
+
+Customer analysis focuses on purchasing behavior and customer contribution to business performance.
+
+Key analysis areas:
+
+* Top customers by sales.
+* Customer rankings.
+* Customer segmentation.
+* Customer revenue contribution.
+* Customer order activity.
+* Average customer spending.
+* Repeat versus one-time customers.
+
+These insights help identify valuable customers and understand customer purchasing patterns.
 
 ## 🗄️ SQL Analysis
-SQL queries are used to explore business metrics, including:
-- Total sales and total profit
-- Sales by category and region
-- Top customers by sales
-- Product sales rankings
-- Customer rankings
 
-## 📁 Project Structure
+SQL was used to analyze business metrics and answer important business questions.
 
-text
-Retail-Sales-Customer-Performance-Analysis/
-│
-├── README.md
-└── Screenshots/
-    ├── Dataset Exploration
-    ├── Data Cleaning
-    ├── Feature Engineering
-    ├── Sales & Profit Analysis
-    ├── Customer Analysis
-    └── SQL Analysis
+Key analysis areas:
+
+* Total sales and total profit.
+* Sales by category and region.
+* Top customers by sales.
+* Product sales rankings.
+* Customer rankings.
+* Aggregated sales and profitability metrics.
+
+SQL queries support efficient analysis and help extract useful information from the transformed dataset.
+
 ## 📸 Project Screenshots
 
+Project screenshots are organized in the `Screenshots` folder.
+
 ### 1. Dataset Preview
+
 ![Project Head and Tail](Screenshots/1.Head%2CTail.png)
 
 ### 2. Data Cleaning
-View screenshots of missing-value checks, duplicate checks, and data cleaning in the Screenshots folder.
+
+Screenshots documenting missing-value checks, duplicate checks, data validation, and data cleaning are available in the `Screenshots` folder.
 
 ### 3. Feature Engineering
-View screenshots of date conversion, profit margin, and new feature creation in the Screenshots folder.
 
-### 4. Sales and Profit Analysis
-View screenshots of monthly sales, category sales, regional sales, and profit analysis in the Screenshots folder.
+Screenshots documenting date conversion, profit margin calculation, and additional feature creation are available in the `Screenshots` folder.
+
+### 4. Sales & Profit Analysis
+
+Screenshots documenting monthly sales, category performance, regional sales, and profitability analysis are available in the `Screenshots` folder.
 
 ### 5. Customer Analysis
-View screenshots of customer segmentation, customer contribution, and customer purchasing behavior in the Screenshots folder.
+
+Screenshots documenting customer segmentation, customer contribution, and customer purchasing behavior are available in the `Screenshots` folder.
 
 ### 6. SQL Analysis
-View screenshots of SQL queries for sales, profit, and customer rankings in the Screenshots folder.
 
+Screenshots documenting SQL queries for sales, profit, category performance, and customer rankings are available in the `Screenshots` folder.
 
+## 📊 Power BI Dashboards
 
-## 📂 Project Deliverables
+### 1. Retail Sales Analysis Dashboard
 
-- **Python:** Data cleaning, feature engineering, sales analysis, and customer analysis scripts.
-- **Dataset:** Original and processed retail sales data.
-- **SQL:** Queries for sales, profit, category performance, and customer rankings.
-- **Screenshots:** Evidence of project tasks and analysis results.
+This interactive dashboard presents key sales metrics, revenue, profitability, category performance, and regional sales trends.
 
-## 🚀 Key Learnings
-
-- Data cleaning and preprocessing using Pandas.
-- Feature engineering with Python.
-- Exploratory Data Analysis (EDA).
-- Sales and customer performance analysis.
-- SQL queries for business insights.
-- Data visualization using Matplotlib.
-
-## 📊 Power BI Dashboard
-
-An interactive Power BI dashboard was developed to analyze retail sales performance, profitability, customer purchasing behavior, and product performance.
-
-### Dashboard Preview
 ![Retail Sales Analysis Dashboard](Screenshots/3.Retail%20Sales%20Analysis%20Dashboard.png)
 
-### Power BI Data Model and Relationships
+### 2. Customer & Product Performance Dashboard
+
+This dashboard analyzes customer rankings, customer spending, order activity, product performance, and category-level revenue and profit.
+
+![Customer & Product Performance Dashboard](Screenshots/4.Customer_Product_Performance_Dashboard.png)
+
+### 3. Power BI Data Model & Relationships
+
+The data model illustrates the relationships between sales data and supporting tables used for interactive reporting and analysis.
+
+**Power BI File:** `Retail_Sales_Relation.pbix`
 
 ![Power BI Data Model](Screenshots/5.Data_Model_Screenshot.png)
 
-### Key Features
+### Key Dashboard Features
 
 * **Sales Performance:** Total sales, total profit, and order analysis.
 * **Customer Analysis:** Customer rankings, revenue, order activity, and average spending.
 * **Product Analysis:** Top- and bottom-performing products and category performance.
 * **Interactive Filters:** Year, Month, Region, and Category.
 * **Interactive Visuals:** Cross-filtering, drill-down, and tooltips.
+* **Data Model:** Relationships between tables to support interactive analysis.
 
+## 📂 Project Deliverables
+
+* **Python Analysis:** Data cleaning, feature engineering, and exploratory data analysis.
+* **Dataset:** Original and transformed retail sales data.
+* **SQL Analysis:** Queries for sales, profit, category performance, and customer rankings.
+* **Power BI Dashboards:** Interactive sales, customer, and product analysis.
+* **Data Model:** Power BI table relationships.
+* **Screenshots:** Visual documentation of project tasks and results.
+* **Business Recommendations:** Recommendations based on the analysis findings.
+
+## 🚀 Key Learnings
+
+* Data cleaning and preprocessing using Pandas.
+* Feature engineering with Python.
+* Exploratory Data Analysis (EDA).
+* Sales and profitability analysis.
+* Customer and product performance analysis.
+* SQL queries for business insights.
+* Data visualization and interactive reporting using Power BI.
+* Communicating analytical findings through dashboards and documentation.
 
 ## 👩‍💻 Project Status
 
-This project covers end-to-end retail sales and customer performance analysis using Python, SQL, and Power BI.
+**Status: Completed**
 
-Completed:
+This project covers retail sales and customer performance analysis using Python, SQL, and Power BI. It demonstrates data preparation, exploratory analysis, business metric calculation, dashboard development, and insight generation.
 
-Data cleaning and feature engineering using Python and Pandas.
-Exploratory data analysis of sales, profit, customers, and products.
-SQL queries for business data analysis.
-Interactive Power BI dashboard with KPIs, charts, and slicers.
-Power BI data model and table relationships.
-Business insights and recommendations.
-
-Project Status: Completed
