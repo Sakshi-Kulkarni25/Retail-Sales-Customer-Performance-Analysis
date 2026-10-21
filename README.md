@@ -143,4 +143,15 @@ An interactive Power BI dashboard was developed to analyze retail sales performa
 
 ## 👩‍💻 Project Status
 
-Python analysis and SQL analysis completed. Additional reporting and dashboard development can be added as the project progresses.
+This project covers end-to-end retail sales and customer performance analysis using Python, SQL, and Power BI.
+
+Completed:
+
+Data cleaning and feature engineering using Python and Pandas.
+Exploratory data analysis of sales, profit, customers, and products.
+SQL queries for business data analysis.
+Interactive Power BI dashboard with KPIs, charts, and slicers.
+Power BI data model and table relationships.
+Business insights and recommendations.
+
+Project Status: Completed
