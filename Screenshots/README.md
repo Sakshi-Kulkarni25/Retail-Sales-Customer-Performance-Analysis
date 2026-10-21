@@ -25,6 +25,17 @@ This folder contains screenshots documenting the development and analysis of the
 * Product and category performance
 * Interactive filters and visualizations
 
+## Screenshot Organization
+
+The project screenshots are organized by analysis stage for easy navigation.
+
+* **Python Analysis:** Dataset preview, data cleaning, feature engineering, and exploratory data analysis.
+* **SQL Analysis:** SQL queries, sales calculations, customer analysis, and query results.
+* **Power BI:** Data model relationships, dashboard visuals, customer insights, and product performance.
+
+This structure helps readers follow the project workflow from data preparation to business insights and visualization.
+
+
 ## Project Status
 
 
