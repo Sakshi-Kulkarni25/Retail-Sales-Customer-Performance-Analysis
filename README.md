@@ -126,7 +126,7 @@ An interactive Power BI dashboard was developed to analyze retail sales performa
 
 ### Dashboard Preview
 
-![Retail Sales Power BI Dashboard](Screenshots/PowerBI_Dashboard.png)
+"C:\Retail_Sales_Analysis_Projest1ds\Day_10Project_PowerBI_Data_Model\Power BI Screenshots\3.Retail Sales Analysis Dashboard.png"
 
 ### Key Features
 
