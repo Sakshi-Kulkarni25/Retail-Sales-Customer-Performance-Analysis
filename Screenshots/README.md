@@ -32,7 +32,7 @@ This folder contains screenshots documenting the development and analysis of the
 
 The data model shows the tables and relationships used in the Retail Sales & Customer Performance Analysis project.
 
-![Power BI Data Model](5.Data_Model_Screenshot.png)
+![Power BI Data Model](Screenshots/5.Data_Model_Screenshot.png)
 
 
 
